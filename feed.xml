@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Teste</title>
+    <link href="https://maakhai.github.io/feed.xml" rel="self" />
+    <link href="https://maakhai.github.io" />
+    <updated>2025-03-30T16:36:10-03:00</updated>
+    <author>
+        <name>teste</name>
+    </author>
+    <id>https://maakhai.github.io</id>
+
+    <entry>
+        <title>teste</title>
+        <author>
+            <name>teste</name>
+        </author>
+        <link href="https://maakhai.github.io/teste.html"/>
+        <id>https://maakhai.github.io/teste.html</id>
+
+        <updated>2025-03-30T16:36:10-03:00</updated>
+            <summary>
+                <![CDATA[
+                    testando este aplicativo de criação de sites
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>testando este aplicativo de criação de sites</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

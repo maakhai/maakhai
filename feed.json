@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Teste",
+    "description": "",
+    "home_page_url": "https://maakhai.github.io",
+    "feed_url": "https://maakhai.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "teste"
+    },
+    "items": [
+        {
+            "id": "https://maakhai.github.io/teste.html",
+            "url": "https://maakhai.github.io/teste.html",
+            "title": "teste",
+            "summary": "testando este aplicativo de criação de sites",
+            "content_html": "<p>testando este aplicativo de criação de sites</p>",
+            "author": {
+                "name": "teste"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-30T16:36:10-03:00",
+            "date_modified": "2025-03-30T16:36:10-03:00"
+        }
+    ]
+}
